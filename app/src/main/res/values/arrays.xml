@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="questions">
+        <item>How can you reverse a string?</item>
+        <item>What is a palindrome string?</item>
+        <item>How to get the matching characters in a string?</item>
+        <item>How to get the non-matching characters in a string?</item>
+        <item>How to calculate the number of vowels and consonants in a string?</item>
+    </array>
+
+    <array name="languages">
+        <item>c or pseudo code</item>
+        <item>java</item>
+        <item>python</item>
+    </array>
+
+</resources>
