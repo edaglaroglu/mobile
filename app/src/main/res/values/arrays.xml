@@ -6,6 +6,21 @@
         <item>How to get the matching characters in a string?</item>
         <item>How to get the non-matching characters in a string?</item>
         <item>How to calculate the number of vowels and consonants in a string?</item>
+        <item>How do you prove that the two strings are anagrams?</item>
+        <item>Find the count for the occurrence of a particular character in a string</item>
+        <item>How to verify if two strings are a rotation mutually?</item>
+        <item>How to calculate the number of numerical digits in a string?</item>
+        <item>How to compute the first character of a string that is not repeated?</item>
+        <item>How to search a missing number in an array that contains integers from 1 to 100?</item>
+        <item>How to get the matching elements in an integer array?</item>
+        <item>How to delete the repeated elements in an integer array?</item>
+        <item>Determine the largest and the smallest element of an array which is not sorted.</item>
+        <item>Explain the bubble sort algorithm.</item>
+        <item>Implement the insertion sort algorithm.</item>
+        <item>Determine the second largest element of an array.</item>
+        <item>Explain the reversal of an array.</item>
+        <item>How to remove special characters in a string that is in lowercase?</item>
+        <item>How to perform swapping two strings by not using a third variable?</item>
     </array>
 
     <array name="languages">
